@@ -1,0 +1,122 @@
+Habitat Component,Total Area (ha),Percentage (%),Region,Designation
+Depth Zone 0,87.914,0.247,NCSR,Within MPAs
+Depth Zone 2,12161.025,34.147,NCSR,Within MPAs
+Depth Zone 4,19857.735,55.759,NCSR,Within MPAs
+Depth Zone 6,2368.539,6.651,NCSR,Within MPAs
+Depth Zone 8,557.421,1.565,NCSR,Within MPAs
+Depth Zone 0,1069.136,2.689,NCCSR,Within MPAs
+Depth Zone 2,7907.453,19.891,NCCSR,Within MPAs
+Depth Zone 4,29667.237,74.627,NCCSR,Within MPAs
+Depth Zone 6,760.81,1.914,NCCSR,Within MPAs
+Depth Zone 0,856.379,1.599,CCSR,Within MPAs
+Depth Zone 2,17904.95,33.44,CCSR,Within MPAs
+Depth Zone 4,21221.808,39.634,CCSR,Within MPAs
+Depth Zone 6,5414.172,10.112,CCSR,Within MPAs
+Depth Zone 8,6868.71,12.828,CCSR,Within MPAs
+Depth Zone 0,208.615,0.158,SCSR,Within MPAs
+Depth Zone 2,15256.216,11.537,SCSR,Within MPAs
+Depth Zone 4,43932.574,33.222,SCSR,Within MPAs
+Depth Zone 6,13446.842,10.168,SCSR,Within MPAs
+Depth Zone 8,39919.215,30.187,SCSR,Within MPAs
+Depth Zone 0,762.83,0.286,NCSR,In All State Waters
+Depth Zone 2,106427.989,39.959,NCSR,In All State Waters
+Depth Zone 4,128698.564,48.32,NCSR,In All State Waters
+Depth Zone 6,15149.665,5.688,NCSR,In All State Waters
+Depth Zone 8,1973.648,0.741,NCSR,In All State Waters
+Depth Zone 0,6786.424,3.437,NCCSR,In All State Waters
+Depth Zone 2,71552.327,36.236,NCCSR,In All State Waters
+Depth Zone 4,116367.068,58.932,NCCSR,In All State Waters
+Depth Zone 6,1278.054,0.647,NCCSR,In All State Waters
+Depth Zone 0,895.436,0.302,CCSR,In All State Waters
+Depth Zone 2,91588.231,30.847,CCSR,In All State Waters
+Depth Zone 4,147494.475,49.676,CCSR,In All State Waters
+Depth Zone 6,21283.485,7.168,CCSR,In All State Waters
+Depth Zone 8,32860.723,11.067,CCSR,In All State Waters
+Depth Zone 0,7886.496,1.122,SCSR,In All State Waters
+Depth Zone 2,164206.879,23.365,SCSR,In All State Waters
+Depth Zone 4,245827.581,34.978,SCSR,In All State Waters
+Depth Zone 6,65855.547,9.37,SCSR,In All State Waters
+Depth Zone 8,113442.855,16.142,SCSR,In All State Waters
+Coarse Unconsolidated Substrate,415.599,1.167,NCSR,Within MPAs
+Fine Unconsolidated Substrate,17543.79,49.262,NCSR,Within MPAs
+Rock Substrate,4700.854,13.2,NCSR,Within MPAs
+Unconsolidated Mineral Substrate,12416.291,34.864,NCSR,Within MPAs
+Anthropogenic Substrate,0.28,0.001,NCCSR,Within MPAs
+Biogenic Substrate,0.024,0,NCCSR,Within MPAs
+Coarse Unconsolidated Substrate,2409.599,6.061,NCCSR,Within MPAs
+Fine Unconsolidated Substrate,14559.915,36.625,NCCSR,Within MPAs
+Rock Substrate,8035.662,20.213,NCCSR,Within MPAs
+Unconsolidated Mineral Substrate,14412.004,36.253,NCCSR,Within MPAs
+Anthropogenic Substrate,1.105,0.002,CCSR,Within MPAs
+Coarse Unconsolidated Substrate,1387.925,2.592,CCSR,Within MPAs
+Fine Unconsolidated Substrate,11207.536,20.931,CCSR,Within MPAs
+Rock Substrate,9309.31,17.386,CCSR,Within MPAs
+Unconsolidated Mineral Substrate,30397.666,56.771,CCSR,Within MPAs
+Anthropogenic Substrate,7.934,0.006,SCSR,Within MPAs
+Biogenic Substrate,1.317,0.001,SCSR,Within MPAs
+Coarse Unconsolidated Substrate,666.574,0.504,SCSR,Within MPAs
+Fine Unconsolidated Substrate,15533.409,11.746,SCSR,Within MPAs
+Rock Substrate,13724.391,10.378,SCSR,Within MPAs
+Unconsolidated Mineral Substrate,86044.51,65.067,SCSR,Within MPAs
+Anthropogenic Substrate,5.936,0.002,NCSR,In All State Waters
+Coarse Unconsolidated Substrate,2454.718,0.922,NCSR,In All State Waters
+Fine Unconsolidated Substrate,122765.169,46.092,NCSR,In All State Waters
+Rock Substrate,26960.461,10.122,NCSR,In All State Waters
+Unconsolidated Mineral Substrate,101581.684,38.139,NCSR,In All State Waters
+Anthropogenic Substrate,953.509,0.483,NCCSR,In All State Waters
+Biogenic Substrate,0.552,0,NCCSR,In All State Waters
+Coarse Unconsolidated Substrate,11002.123,5.572,NCCSR,In All State Waters
+Fine Unconsolidated Substrate,103361.748,52.345,NCCSR,In All State Waters
+Rock Substrate,30416.772,15.404,NCCSR,In All State Waters
+Unconsolidated Mineral Substrate,50757.463,25.705,NCCSR,In All State Waters
+Anthropogenic Substrate,32.466,0.011,CCSR,In All State Waters
+Coarse Unconsolidated Substrate,7762.925,2.615,CCSR,In All State Waters
+Fine Unconsolidated Substrate,96486.882,32.497,CCSR,In All State Waters
+Rock Substrate,39482.229,13.298,CCSR,In All State Waters
+Unconsolidated Mineral Substrate,150662.681,50.743,CCSR,In All State Waters
+Anthropogenic Substrate,173.595,0.025,SCSR,In All State Waters
+Biogenic Substrate,5.844,0.001,SCSR,In All State Waters
+Coarse Unconsolidated Substrate,6648.839,0.946,SCSR,In All State Waters
+Fine Unconsolidated Substrate,107446.929,15.288,SCSR,In All State Waters
+Rock Substrate,48827.585,6.948,SCSR,In All State Waters
+Unconsolidated Mineral Substrate,436906.702,62.167,SCSR,In All State Waters
+Canopy-Forming Algal Bed (Kelp),205.221,0.576,NCSR,Within MPAs
+Aquatic Vegetation Bed,53.339,0.134,NCCSR,Within MPAs
+Benthic Macroalgae,158.919,0.4,NCCSR,Within MPAs
+Benthic/Attached Biota,16.626,0.042,NCCSR,Within MPAs
+Canopy-Forming Algal Bed (Kelp),833.422,2.096,NCCSR,Within MPAs
+Faunal Bed,60.91,0.153,NCCSR,Within MPAs
+Floating/Suspended Plants and Macroalgae,0.535,0.001,NCCSR,Within MPAs
+Seagrass Bed,0.59,0.001,NCCSR,Within MPAs
+Aquatic Vegetation Bed,147.353,0.275,CCSR,Within MPAs
+Canopy-Forming Algal Bed (Kelp),3328.442,6.216,CCSR,Within MPAs
+Faunal Bed,27.98,0.052,CCSR,Within MPAs
+Aquatic Vegetation Bed,270.298,0.204,SCSR,Within MPAs
+Benthic Macroalgae,77.648,0.059,SCSR,Within MPAs
+Benthic/Attached Biota,32.419,0.025,SCSR,Within MPAs
+Canopy-Forming Algal Bed (Kelp),3089.039,2.336,SCSR,Within MPAs
+Faunal Bed,144.876,0.11,SCSR,Within MPAs
+Floating/Suspended Plants and Macroalgae,1.988,0.002,SCSR,Within MPAs
+Seagrass Bed,195.098,0.148,SCSR,Within MPAs
+Canopy-Forming Algal Bed (Kelp),1974.999,0.742,NCSR,In All State Waters
+Aquatic Vegetation Bed,173.426,0.088,NCCSR,In All State Waters
+Benthic Macroalgae,413.309,0.209,NCCSR,In All State Waters
+Benthic/Attached Biota,23.715,0.012,NCCSR,In All State Waters
+Canopy-Forming Algal Bed (Kelp),2752.307,1.394,NCCSR,In All State Waters
+Faunal Bed,99.737,0.051,NCCSR,In All State Waters
+Floating/Suspended Plants and Macroalgae,1.888,0.001,NCCSR,In All State Waters
+Seagrass Bed,2.491,0.001,NCCSR,In All State Waters
+Aquatic Vegetation Bed,353.253,0.119,CCSR,In All State Waters
+Benthic Macroalgae,3.848,0.001,CCSR,In All State Waters
+Benthic/Attached Biota,0.775,0,CCSR,In All State Waters
+Canopy-Forming Algal Bed (Kelp),10036.596,3.38,CCSR,In All State Waters
+Faunal Bed,256.692,0.086,CCSR,In All State Waters
+Floating/Suspended Plants and Macroalgae,0.01,0,CCSR,In All State Waters
+Seagrass Bed,0.653,0,CCSR,In All State Waters
+Aquatic Vegetation Bed,1062.595,0.151,SCSR,In All State Waters
+Benthic Macroalgae,187.221,0.027,SCSR,In All State Waters
+Benthic/Attached Biota,72.592,0.01,SCSR,In All State Waters
+Canopy-Forming Algal Bed (Kelp),23556.638,3.352,SCSR,In All State Waters
+Faunal Bed,680.328,0.097,SCSR,In All State Waters
+Floating/Suspended Plants and Macroalgae,6.28,0.001,SCSR,In All State Waters
+Seagrass Bed,787.55,0.112,SCSR,In All State Waters
